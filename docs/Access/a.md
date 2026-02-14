@@ -4,14 +4,14 @@ This is a separate directory service from that of ATU.
 
 Any lecture or researcher may request access and an account will be created in the form *firstname.surname*
 
-Any lecturer may request student access and this is normally a class group. The lecture should forward a CSV file of students, typically an export from _Blackboard_.
+Any lecturer may request student access and this is normally a class group. The lecture should forward a CSV file of students, typically an export from _Blackboard_. Account names will be the student's L number.
 
 ## Suitability
-Access is intended for technically proficient people only. If you are not a Computing student or staff member, you will struggle to gain any benefit.
+Access is intended for technically proficient people only. If you are not a Computing student/staff member, you will struggle to gain any benefit.
 
 We do not have a help desk!
 
-Note that we are not service providers, you need to discuss requirements in advance and we do *not* offer an SLA. We will not be able to respond quickly during the academic year.
+Note that we are not service providers, you need to discuss requirements in advance and we do *not* offer an SLA. We will not be able to respond quickly during the academic year or at short notice.
 
 ## Access from ATU Donegal
 There is network access from the ATU Donegal Port Road campus to the data center. 
@@ -26,18 +26,17 @@ This assummes that you are familar with virtualization, operating systems config
 3. Install this software.
 4. Run the software
 5. Create a new connection
-
-<figure>
-<img src = "https://kmn-datacenter.github.io/UserManual/images/fig1.jpg">
-<figcaption>Fig 1. Setup.</figcaption>
-</figure>
-
 6. Select IPsec VPN
 7. The connection name is “KMN”
 8. Remote gateway is 91.123.225.1
 9. The pre-shared key is “hardtoguess”
 10. Click on “Save login”
 11. Click apply
+
+<figure>
+<img src = "https://kmn-datacenter.github.io/UserManual/images/fig1.jpg">
+<figcaption>Fig 1. VPN Setup.</figcaption>
+</figure>
 
 Now try to log in. 
 - You will be prompted for a username; use your L number
