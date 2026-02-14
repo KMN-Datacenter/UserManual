@@ -4,7 +4,7 @@ theme:
   name: readthedocs
   logo: images/logo.jpg
 
-copyright: Copyright © 2026, John O'Raw
+copyright: Copyright © 2026, RL, DMcF, JOR
 
 markdown_extensions:
   - pymdownx.highlight:

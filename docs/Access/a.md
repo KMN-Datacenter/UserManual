@@ -22,7 +22,7 @@ Since 2025, there is no access from the Wireless network.
 This assumes that you are familiar with virtualization, operating systems configuration and VPNs.
 
 1. Create a Jump Server with Windows 11, ensure it has a connection to the Internet..
-2. Download the Fortinet client from http://forticlient.com/ 
+2. Download the Fortinet client from http://forticlient.com/. I am currently using  v. 7.4.3
 3. Install this software.
 4. Run the software
 5. Create a new connection
@@ -45,3 +45,5 @@ Now try to log in.
 
 Click __Connect__
 
+If you run into problems...
+Fortinet made a change in late 2025 which may require us to tweak a setting, get in touch with Harman if you run into trouble.
