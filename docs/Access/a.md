@@ -29,7 +29,7 @@ This assumes that you are familiar with virtualization, operating systems config
 6. Select IPsec VPN
 7. The connection name is “KMN”
 8. Remote gateway is 91.123.225.1
-9. The pre-shared key is “hardtoguess”
+9. The pre-shared key will be sent to you
 10. Click on “Save login”
 11. Click apply
 
