@@ -1,14 +1,24 @@
-# History
+# Where the buck stops
+Someone must be responsible for activities. Currently three staff give the data center direction.
 
-The Kay McNulty (KMN) Data Centre is a teaching and research data centre run by the ATU Donegal Computing Department, which replicates the typical work environment of an enterprise data centre and offers hands-on learning opportunities for students. It is not a production data centre and was never intended to be such.
+- Ruth Lennon
+- Danny McFadden
+- John O'Raw
 
-It is used by undergraduates for applied practical work, giving the student the confidence of having worked with real equipment in a realistic environment. The data centre relies heavily on virtualization techniques, allowing us to provide class groups with a server per student, whilst using a minimum of hardware. Automation, Networking, Security and Data Storage have been taught at this level.
+We may seem conservative and this is the case.
+No projects are allowed in the teaching data center which have implications under GDPR.
 
-Postgraduate students also use the data centre as a learning tool on taught programmes, in addition to being a home for research projects in machine learning, data centre engineering, smart grid, software development, big data, automation and security with both indigenous companies and international partners. The MSc Cloud and Springboard PGDip programmes are entirely dependent on this. 
+For us to keep operational, we need to get nothing wrong.
+In a teaching data centre, its a miracle if it keeps running without major issues!
 
-Established in 2010, the re-homing of the data centre in 2021 gave us the opportunity to establish a state-of-the-art facility. Ten equipment racks are available in two rows, with a hot-aisle containment design. Cooling is via dual air systems with a 15kW capacity. The rows were intended for 3kW per rack, with 5kW and three phase power available at the end of racks. Connectivity to HEANet is at 1Gb/s with perimeter firewalls and the network is a typical data centre leaf-spine design. Connectivity to ATU Letterkenny is via the ATU firewall, separating the main campus and data centre entirely. 
+We have Internet connecvity since 2010, with the agreement of local computer services and HEANet.
+Without the conservatism, we lose the goodwill that has allowed that.
 
-A dedicated rack at the roof plant room gives access to antenna arrays for teaching and research. This includes GNSS antenna for Position, Navigation, and Time (PNT) research. Ongoing projects with publications include work on robotics, survey and precision time for critical infrastructure. The antenna array also includes 160, 433, 868, and 1090 MHz antenna for software defined radio applications.
+Please go gentle with us, we are regular staff who get no allowance to be service providers!
 
-From 2023, the data centre has hosted project Janus, an initiative to introduce High Performance Computing (HPC) and streaming data processing into teaching and research. This is entirely isolated (air gapped) from ATU Donegal and the teaching data centre and connects to HEANet via its own firewall infrastructure.
+From mid-2025, we have a full time technician. All day-to-day technical work requests go to:
+
+- Harman Singh
+
+
 
