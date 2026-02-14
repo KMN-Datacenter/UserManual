@@ -2,7 +2,7 @@ site_name: User Manual
 site_url: https://example.com
 theme:
   name: readthedocs
-  logo: images/disks.jpg
+  logo: images/logo.jpg
 
 copyright: Copyright © 2026, John O'Raw
 
