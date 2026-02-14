@@ -11,12 +11,12 @@ No projects are allowed in the teaching data center which have implications unde
 For us to keep operational, we need to get nothing wrong.
 In a teaching data centre, its a miracle if it keeps running without major issues!
 
-We have Internet connecvity since 2010, with the agreement of local computer services and HEANet.
+We have Internet connectivity since 2010, with the agreement of local computer services and HEANet.
 Without the conservatism, we lose the goodwill that has allowed that.
 
 Please go gentle with us, we are regular staff who get no allowance to be service providers!
 
-From mid-2025, we have a full time technician. All day-to-day technical work requests go to:
+From mid-2025, the data center has a full time technician. All day-to-day technical work requests go to:
 
 - Harman Singh
 

@@ -1,5 +1,5 @@
 # Accounts
-Authorization, authentication, and accounting (AAA) are centralised and are based on Microsoft's Active Directory.
+Authorization, authentication, and accounting (AAA) are centralized and are based on Microsoft's Active Directory.
 This is a separate directory service from that of ATU. 
 
 Any lecture or researcher may request access and an account will be created in the form *firstname.surname*
@@ -19,9 +19,9 @@ We are outside the perimeter firewall, you may access the data center from the l
 Since 2025, there is no access from the Wireless network.
 
 ## VPN Access
-This assummes that you are familar with virtualization, operating systems configuration and VPNs.
+This assumes that you are familiar with virtualization, operating systems configuration and VPNs.
 
-1. Create a Jumpserver with Windows 11, ensure it has a connection to the Internet..
+1. Create a Jump Server with Windows 11, ensure it has a connection to the Internet..
 2. Download the Fortinet client from http://forticlient.com/ 
 3. Install this software.
 4. Run the software
