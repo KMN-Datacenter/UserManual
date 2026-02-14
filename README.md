@@ -21,4 +21,4 @@ pip install mkdocs-material
 ````
 mkdocs new .
 ````
-
+5. Add my .github folder
