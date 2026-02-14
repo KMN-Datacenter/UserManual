@@ -3,7 +3,9 @@ The Kay McNulty (KMN) Data Centre is a teaching and research data centre run by 
 
 It is used by undergraduates for applied practical work, giving the student the confidence of having worked with real equipment in a realistic environment. The data centre relies heavily on virtualization techniques, allowing us to provide class groups with a server per student, whilst using a minimum of hardware. Automation, Networking, Security and Data Storage have been taught at this level.
 
-Postgraduate students also use the data centre as a learning tool on taught programmes, in addition to being a home for research projects in machine learning, data centre engineering, smart grid, software development, big data, automation and security with both indigenous companies and international partners. The MSc Cloud and Springboard PGDip programmes are entirely dependent on this. 
+Postgraduate students also use the data centre as a learning tool on taught programmes. The MSc Cloud and Springboard PGDip programmes are entirely dependent on this. 
+
+The center acts as a home for research projects in machine learning, data centre engineering, smart grid, software development, big data, automation and security for our own students, and with both indigenous companies and international partners. 
 
 Established in 2010, the re-homing of the data centre in 2021 gave us the opportunity to create a state-of-the-art facility. Ten equipment racks are available in two rows, with a hot-aisle containment design. Cooling is via dual air systems with a 15kW capacity. The rows were intended for 3kW per rack, with 5kW and three phase power available at the end of racks. Connectivity to HEANet is at 1Gb/s with perimeter firewalls and the network is a typical data centre leaf-spine design. Connectivity to ATU Letterkenny is via the ATU firewall, separating the main campus and data centre entirely. 
 

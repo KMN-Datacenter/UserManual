@@ -39,6 +39,7 @@ This assummes that you are familar with virtualization, operating systems config
 </figure>
 
 Now try to log in. 
+
 - You will be prompted for a username; use your L number
 - You will be prompted for a password; this will be sent to you individually
 
